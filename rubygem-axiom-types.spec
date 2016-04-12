@@ -4,7 +4,7 @@
 #
 Name     : rubygem-axiom-types
 Version  : 0.1.1
-Release  : 3
+Release  : 4
 URL      : https://rubygems.org/downloads/axiom-types-0.1.1.gem
 Source0  : https://rubygems.org/downloads/axiom-types-0.1.1.gem
 Summary  : No detailed summary available
